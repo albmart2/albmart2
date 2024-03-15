@@ -1,6 +1,6 @@
 # Hi! I'm albmart2
 
-## I'm a student at 42 Madrid!
+### I'm a student at 42 Madrid!
 
 I'm Alba, an enthusiastic student at 42 Madrid.
 
