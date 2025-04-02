@@ -15,10 +15,10 @@
 
 🔹 Desarrollo: Python, Bash, Java, JavaScript, C, HTML, PHP, CSS
 
-🚀 Proyectos Destacados
-Repositorio 1 - Breve descripción
+## 🚀 Proyectos Destacados
+[42 Madrid | Aquí encontrarás los proyectos que desarrollé durante el tiempo en el que estuve como estudiante en 42 Madrid](https://github.com/albmart2/42Madrid)
 
-Repositorio 2 - Breve descripción
+[Piscina 42 Madrid | Aquí encontrarás los proyectos que desarrollé durante el tiempo en el que estuve en la piscina de 42 Madrid](https://github.com/albmart2/CPiscine)
 
 📫 Contacto
 LinkedIn: tu perfil
