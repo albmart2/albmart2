@@ -1,30 +1,33 @@
-# 👋 ¡Hola! Soy Alba Martín
-- **Edad**: 23 años
+# 👋 Hello! I'm Alba Martín
+- **Age**: 23 years old
 
-- **Trabajo**: DevOps en PSS Tecnologías de la Información
+- **Job**: DevOps at PSS Information Technologies
 
-- **Estudios**:
+- **Education**:
 
-  - DAM (Desarrollo de Aplicaciones Multiplataforma)
-  - DAW (Desarrollo de Aplicaciones Web)
-  - SMR (Sistemas Microinformaticos y Redes)
-  - 42 Madrid (Programación en entorno peer-to-peer)
+- DAM (Cross-Platform Application Development)
+- DAW (Web Application Development)
+- SMR (Microcomputer Systems and Networks)
+- 42 Madrid (Peer-to-peer programming)
 
-## 🛠️ Tecnologías y Habilidades
+## 🛠️ Technologies and Skills
 🔹 Cloud & DevOps: Docker, CI/CD (GitHub Actions) ...
 
-🔹 Desarrollo: Python, Bash, Java, JavaScript, C, HTML, PHP, CSS
+🔹 Development: Python, Bash, Java, JavaScript, C, HTML, PHP, CSS
 
-## 🚀 Proyectos Destacados
-[42 Madrid | Aquí encontrarás los proyectos que desarrollé durante el tiempo en el que estuve como estudiante en 42 Madrid](https://github.com/albmart2/42Madrid)
+## 🚀 Featured Projects
+[42 Madrid | Here you will find the projects I developed during my time as a student at 42 Madrid](https://github.com/albmart2/42Madrid)
 
-[Piscina 42 Madrid | Aquí encontrarás los proyectos que desarrollé durante el tiempo en el que estuve en la piscina de 42 Madrid](https://github.com/albmart2/CPiscine)
+[Piscine 42 Madrid | Here you will find the projects I developed during my time at the 42 Madrid pool](https://github.com/albmart2/CPiscine)
 
-[Primer proyecto DOCKER | Aqí encontrarás un primer proyecto en el que desarrolle para crear una imagen DOCKER a partir de YML y Git Actions](https://github.com/albmart2/practica-final-devops)
+[First DOCKER project | Here you'll find a first project I developed to create a Docker image from YML and Git Actions](https://github.com/albmart2/practica-final-devops)
 
-## 📫 Contacto
+## 📫 Contact
 LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
 
-### ⭐ ¡Explora mis repositorios y no dudes en colaborar! ⭐
+## 🌐 Website
+Visit my website: [link](https://www.albamartinmunoz.com/).
 
-> "El código es poesía lógica." 🚀
+### ⭐ Explore my repositories and feel free to collaborate! ⭐
+
+> "Code is logical poetry." 🚀
