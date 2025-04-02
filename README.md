@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Alba Martín
-Edad: 23 años
+**Edad**: 23 años
 
 Trabajo: DevOps en PSS
 
