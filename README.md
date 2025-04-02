@@ -27,4 +27,4 @@ LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%
 
 ### ⭐ ¡Explora mis repositorios y no dudes en colaborar! ⭐
 
-"El código es poesía lógica." 🚀
+> "El código es poesía lógica." 🚀
