@@ -12,6 +12,7 @@
 
 ## 🛠️ Tecnologías y Habilidades
 🔹 Cloud & DevOps: Docker, CI/CD (GitHub Actions) ...
+
 🔹 Desarrollo: Python, Bash, Java, JavaScript, C, HTML, PHP, CSS
 
 🚀 Proyectos Destacados
