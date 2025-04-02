@@ -5,10 +5,10 @@
 
 - **Education**:
 
-- DAM (Cross-Platform Application Development)
-- DAW (Web Application Development)
-- SMR (Microcomputer Systems and Networks)
-- 42 Madrid (Peer-to-peer programming)
+  - DAM (Cross-Platform Application Development)
+  - DAW (Web Application Development)
+  - SMR (Microcomputer Systems and Networks)
+  - 42 Madrid (Peer-to-peer programming)
 
 ## 🛠️ Technologies and Skills
 🔹 Cloud & DevOps: Docker, CI/CD (GitHub Actions) ...
