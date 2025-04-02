@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Alba Martín
 - **Edad**: 23 años
 
-- **Trabajo**: DevOps en PSS
+- **Trabajo**: DevOps en PSS Tecnologías de la Información
 
 - **Estudios**:
 
@@ -20,13 +20,11 @@
 
 [Piscina 42 Madrid | Aquí encontrarás los proyectos que desarrollé durante el tiempo en el que estuve en la piscina de 42 Madrid](https://github.com/albmart2/CPiscine)
 
-📫 Contacto
-LinkedIn: tu perfil
+[Primer proyecto DOCKER | Aqí encontrarás un primer proyecto en el que desarrolle para crear una imagen DOCKER a partir de YML y Git Actions](https://github.com/albmart2/practica-final-devops)
 
-Email: tunombre@email.com
+## 📫 Contacto
+LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
 
-⭐ ¡Explora mis repositorios y no dudes en colaborar! ⭐
+### ⭐ ¡Explora mis repositorios y no dudes en colaborar! ⭐
 
 "El código es poesía lógica." 🚀
-
-🔹 GitHub: github.com/tuusuario
