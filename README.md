@@ -1,11 +1,33 @@
-# Hi! I'm albmart2
+# 👋 ¡Hola! Soy Alba Martín
+Edad: 23 años
 
-### I'm a student at 42 Madrid!
+Trabajo: DevOps en PSS
 
-I'm Alba Martín Muñoz, an enthusiastic student at 42 Madrid.
+Estudios:
 
-During my time at 42, I've had the privilege of immersing myself in a unique learning environment where collaboration, experimentation, and critical thinking are fundamental to the educational process. From day one, I've been challenging myself to overcome obstacles and expand my technical skills.
+DAM (Desarrollo de Aplicaciones Multiplataforma)
 
-This GitHub space will serve as a showcase of my projects, both those I'm working on at 42 and other personal projects I'm developing. I hope you find inspiration in my creations, and that we can learn together on this exciting journey towards mastery in programming.
+DAW (Desarrollo de Aplicaciones Web)
 
-Thank you for visiting my page, and I hope you enjoy exploring my work. Together, we can build a more inclusive and diverse future in technology!
+42 Madrid (Programación en entorno peer-to-peer)
+
+🛠️ Tecnologías y Habilidades
+🔹 Cloud & DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), AWS/Azure
+🔹 Desarrollo: Python, Bash, Java, JavaScript
+🔹 SysAdmin: Linux, Scripting, Automatización
+
+🚀 Proyectos Destacados
+Repositorio 1 - Breve descripción
+
+Repositorio 2 - Breve descripción
+
+📫 Contacto
+LinkedIn: tu perfil
+
+Email: tunombre@email.com
+
+⭐ ¡Explora mis repositorios y no dudes en colaborar! ⭐
+
+"El código es poesía lógica." 🚀
+
+🔹 GitHub: github.com/tuusuario
