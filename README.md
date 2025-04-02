@@ -1,20 +1,18 @@
 # 👋 ¡Hola! Soy Alba Martín
-**Edad**: 23 años
+- **Edad**: 23 años
 
-Trabajo: DevOps en PSS
+- **Trabajo**: DevOps en PSS
 
-Estudios:
+- **Estudios**:
 
-DAM (Desarrollo de Aplicaciones Multiplataforma)
+  - DAM (Desarrollo de Aplicaciones Multiplataforma)
+  - DAW (Desarrollo de Aplicaciones Web)
+  - SMR (Sistemas Microinformaticos y Redes)
+  - 42 Madrid (Programación en entorno peer-to-peer)
 
-DAW (Desarrollo de Aplicaciones Web)
-
-42 Madrid (Programación en entorno peer-to-peer)
-
-🛠️ Tecnologías y Habilidades
-🔹 Cloud & DevOps: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), AWS/Azure
-🔹 Desarrollo: Python, Bash, Java, JavaScript
-🔹 SysAdmin: Linux, Scripting, Automatización
+## 🛠️ Tecnologías y Habilidades
+🔹 Cloud & DevOps: Docker, CI/CD (GitHub Actions) ...
+🔹 Desarrollo: Python, Bash, Java, JavaScript, C, HTML, PHP, CSS
 
 🚀 Proyectos Destacados
 Repositorio 1 - Breve descripción
