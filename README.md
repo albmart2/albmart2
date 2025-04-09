@@ -20,6 +20,8 @@
 
 [First DOCKER project | Here you'll find a first project I developed to create a Docker image from YML and Git Actions](https://github.com/albmart2/practica-final-devops)
 
+[Final Project Prometheus & Grafana | Here you'll find a first project I developed to build Prometheus & Grafana Dashboards](https://github.com/albmart2/practica_final_prometheus_-_grafana)
+
 ## 📫 Contact
 LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
 
