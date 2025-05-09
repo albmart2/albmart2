@@ -22,6 +22,8 @@
 
 [Final Project Prometheus & Grafana | Here you'll find a first project I developed to build Prometheus & Grafana Dashboards](https://github.com/albmart2/practica_final_prometheus_-_grafana)
 
+[First Project Ansible | Here you'll find my first proyect I developed to create several playbooks in Ansible](https://github.com/albmart2/practica_final_ansible)
+
 ## 📫 Contact
 LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
 
