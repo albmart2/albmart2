@@ -26,7 +26,7 @@
 
 ## Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Contact
