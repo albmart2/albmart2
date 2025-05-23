@@ -22,7 +22,9 @@
 
 [Final Project Prometheus & Grafana | Here you'll find a first project I developed to build Prometheus & Grafana Dashboards](https://github.com/albmart2/practica_final_prometheus_-_grafana)
 
-[First Project Ansible | Here you'll find my first proyect I developed to create several playbooks in Ansible](https://github.com/albmart2/practica_final_ansible)
+[First Project Ansible | Here you'll find my first project I developed to create several playbooks in Ansible](https://github.com/albmart2/practica_final_ansible)
+
+[Final Project DevOps AIOps | Here you'll find my final project of my course](https://github.com/albmart2/proyectoFinalCurso)
 
 ## 🌐 Most used languages
 
