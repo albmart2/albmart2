@@ -40,3 +40,4 @@ Visit my website: [link](https://www.albamartinmunoz.com/).
 ### ⭐ Explore my repositories and feel free to collaborate! ⭐
 
 > "Code is logical poetry." 🚀
+![Visitor Count](https://komarev.com/ghpvc/?username=akbmart2&style=for-the-badge&color=blue)
