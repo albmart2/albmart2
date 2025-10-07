@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Alba Martín
-- **Age**: 23 years old
-- **Job**: DevOps at PSS Information Technologies
+- **Age**: 24 years old
+- **Job**: DevOps at Accenture
 - **Education**:
 
   - DAM (Cross-Platform Application Development)
