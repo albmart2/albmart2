@@ -28,8 +28,7 @@
 
 ## 🌐 Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
 
 ## 📫 Contact
 LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
