@@ -26,9 +26,9 @@
 
 [Final Project DevOps AIOps | Here you'll find my final project of my course](https://github.com/albmart2/proyectoFinalCurso)
 
-## 🌐 Most used languages
+## 🌐 Most used languages 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albmart2&layout=compact)
 
 ## 📫 Contact
 LinkedIn: [Alba Martín Muñoz](https://www.linkedin.com/in/alba-mart%C3%ADn-mu%C3%B1oz-7741bb250/)
