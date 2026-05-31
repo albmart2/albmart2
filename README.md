@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Alba Martín
 - **Age**: 24 years old
-- **Job**: DevOps at Accenture
+- **Job**: Infra Transformation Analyst at Accenture
 - **Education**:
 
   - DAM (Cross-Platform Application Development)
